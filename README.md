@@ -1,0 +1,3 @@
+# git-curse
+acreje
+texto
